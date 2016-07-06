@@ -1,0 +1,77 @@
+.top-nav {
+	padding-top: 5px;
+	font-size: 0.9em;
+	color: black;
+	@include topnav-shadow;
+}
+
+.pure-menu-link, .pure-menu-link {
+    color: $base-color;
+    font-weight: 400;
+}
+
+.pure-menu-link:hover, .pure-menu-link:focus {
+    background-color: $brand-color;
+    color: $base-color;
+}
+
+.pure-menu-selected .pure-menu-link {
+	border-bottom: 3px solid $brand-color;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
+$menu-margin-animation: -100px;
+
+.menu-reveal-enter {
+  // margin-top: $menu-margin-animation;
+  transform: scale(.01,.01) rotateY(90deg);
+}
+
+.menu-reveal-enter.menu-reveal-enter-active {
+  // margin-top: inherit;
+  transform: initial;
+  transition: transform 500ms ease-out;
+}
+
+.menu-reveal-leave {
+  // margin-top: inherit;
+  transform: initial;
+}
+
+.menu-reveal-leave.menu-reveal-leave-active {
+  // margin-top: $menu-margin-animation;
+  transform: scale(.01,.01) rotateY(90deg);
+  transition: transform 300ms ease-in;
+}
+
+
+
+
+
+
+
+
+
+$menu-height : 32px;
+
+
+.kay {
+	height: $menu-height;
+}
+
+
+.jay {
+	width: 0; 
+	height: 0; 
+	margin-top: -32px;
+	border-top: $menu-height/2 solid transparent;
+	border-bottom: $menu-height/2 solid transparent;
+	
+	border-left: 20px solid $brand-color;
+}

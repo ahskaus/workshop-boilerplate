@@ -1,0 +1,114 @@
+.skeleton-hand {
+	cursor: pointer;
+}
+
+.skeleton-header, .skeleton-header-closed {
+	background-color: $brand-color;
+}
+
+
+.skeleton-header-disabled {
+    color: $disabled-skeleton-header-text;
+    background-color: $disabled-skeleton-header-background;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+
+.skeleton-header-selected {
+    color: $selected-skeleton-header-text;
+    background-color: $selected-skeleton-header-background;
+}
+
+
+.skeleton-header-current {
+    color: $current-skeleton-header-text;
+    background-color: $current-skeleton-header-background;
+}
+
+
+@mixin skeleton-close-base {
+	padding: 3px;
+	text-align: center;
+	width: 30px;
+	float: right;
+	font-weight: 600;
+	border-left: 2px solid white;
+}
+
+
+.skeleton-close, .skeleton-close-closed {
+	@include skeleton-close-base;
+	background-color: lighten($brand-color, 30%);
+}
+
+
+.skeleton-close-disabled {
+	@include skeleton-close-base;
+	background-color: lighten($disabled-skeleton-header-background, 10%);
+}
+
+
+.skeleton-close-selected {
+	@include skeleton-close-base;
+	background-color: lighten($selected-skeleton-header-background, 10%);
+}
+
+
+.skeleton-close-current {
+	@include skeleton-close-base;
+	background-color: lighten($current-skeleton-header-background, 10%);
+}
+
+
+
+
+.skeleton-header-text {
+	padding: 3px;
+	float: left;
+}
+
+
+.skeleton-container {
+	margin: $skeleton-margin;
+	background-color: $skeleton-background;
+	// height: 160px;
+	@include light-shadow;
+}
+
+
+
+@mixin padding-skeleton-top {
+	padding-top: 10px;
+}
+
+@mixin padding-skeleton-bottom {
+	padding-bottom: 10px;
+}
+
+@mixin padding-skeleton-left {
+	padding-left: 10px;
+}
+
+@mixin padding-skeleton-right {
+	padding-right: 10px;
+}
+
+
+.tag-inner, .autocomplete-inner {
+	@include padding-skeleton-top;
+	@include padding-skeleton-bottom;
+	@include padding-skeleton-left;
+	@include padding-skeleton-right;
+	text-align: left;
+}
+
+.range-inner {
+	@include padding-skeleton-top;
+	@include padding-skeleton-bottom;
+}
+
+.slider-inner > .selected-text {
+	@include padding-skeleton-top;
+	@include padding-skeleton-bottom;
+}
+

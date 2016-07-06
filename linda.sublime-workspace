@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fltr",
+				"FilteredList"
+			],
+			[
+				"we",
+				"webpack-dev-server"
+			],
+			[
+				"Hea",
+				"headlights"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"se",
+				"sensor"
+			],
+			[
+				"ta",
+				"tabState"
+			],
+			[
+				"ske",
+				"skeletonStates"
+			],
+			[
+				"old",
+				"oldParam"
+			],
+			[
+				"ne",
+				"nextProps"
+			],
+			[
+				"index",
+				"indexToParam"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"inde",
+				"indexToParam"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"tex",
+				"text-align: "
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"defal",
+				"DEFAULT"
+			],
+			[
+				"new",
+				"newParam"
+			],
+			[
+				"ol",
+				"oldParams"
+			],
+			[
+				"skele",
+				"skeletonStates"
+			],
+			[
+				"pro",
+				"proper"
+			],
+			[
+				"red",
+				"recursed"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"app",
+				"applyOne"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"co",
+				"collapse"
+			],
+			[
+				"set",
+				"setIn"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"on",
+				"onSelect"
+			],
+			[
+				"get",
+				"getIn"
+			],
+			[
+				"act",
+				"actionCreators"
+			],
+			[
+				"data",
+				"dataChange"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"agg",
+				"aggregate"
+			],
+			[
+				"foun",
+				"foundation"
+			],
+			[
+				"is",
+				"isEqual"
+			],
+			[
+				"str",
+				"stringCodePairs"
+			],
+			[
+				"param",
+				"paramTypes"
+			],
+			[
+				"aggre",
+				"aggregateParam"
+			],
+			[
+				"params",
+				"paramsArray"
+			],
+			[
+				"prm",
+				"params"
+			],
+			[
+				"vlu",
+				"VALUE"
+			],
+			[
+				"mx",
+				"MIN_MAX"
+			],
+			[
+				"DATA",
+				"dataReducer"
+			],
+			[
+				"spl",
+				"splitData"
+			],
+			[
+				"form",
+				"formatDefault"
+			],
+			[
+				"l",
+				"length-1"
+			],
+			[
+				"char",
+				"charString"
+			],
+			[
+				"valu",
+				"VALUE"
+			],
+			[
+				"stri",
+				"STRING_ARRAY"
+			],
+			[
+				"divi",
+				"divisions"
+			],
+			[
+				"div",
+				"divisions"
+			],
+			[
+				"sta",
+				"state	React: this.state."
+			],
+			[
+				"fot",
+				"font-weight: "
+			],
+			[
+				"xy",
+				"xyMax"
+			],
+			[
+				"ran",
+				"rangeFuncs"
+			],
+			[
+				"ste",
+				"setState"
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"paddi",
+				"padding-top: "
+			],
+			[
+				"pure",
+				"pure-u-1"
+			],
+			[
+				"border-r",
+				"border-right: "
+			],
+			[
+				"border",
+				"border-radius: "
+			],
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"fon",
+				"font-weight: "
+			],
+			[
+				"pad",
+				"padding: "
+			],
+			[
+				"padd",
+				"padding-top: "
+			],
+			[
+				"bor",
+				"border: "
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"p",
+				"param"
+			],
+			[
+				"partial",
+				"partial"
+			],
+			[
+				"Au",
+				"AutoComplete"
+			],
+			[
+				"reat",
+				"react-predict"
+			],
+			[
+				"sk",
+				"Skeleton"
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"FOT",
+				"font-weight: "
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Head",
+				"Headline"
+			],
+			[
+				"light",
+				"lighten	Sass-function"
+			],
+			[
+				"MARGI",
+				"margin-top: "
+			],
+			[
+				"pu",
+				"pure-g"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"pure-",
+				"pure-menu-item"
+			],
+			[
+				"ME",
+				"menuItems"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"res",
+				"responsive"
+			],
+			[
+				"show",
+				"show-me"
+			],
+			[
+				"showme",
+				"show-mees"
+			],
+			[
+				"size-scr",
+				"size-screen"
+			],
+			[
+				"pur",
+				"pure-sm-show"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"n",
+				"nav	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Header.jsx",
+			"settings":
+			{
+				"buffer_size": 694,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/workshop/linda/webpack.config.js",
+		"/C/workshop/linda/package.json",
+		"/C/workshop/yorba/src/components/main/search/Range.jsx",
+		"/C/workshop/yorba/src/components/main/search/AutoComplete.jsx",
+		"/C/workshop/yorba/src/components/main/search/Skeleton.jsx",
+		"/C/workshop/yorba/src/components/Header.jsx",
+		"/C/workshop/yorba/src/styles/_constant.scss",
+		"/C/workshop/yorba/src/data/dataMapper.jsx",
+		"/C/workshop/yorba/yorba.sublime-project",
+		"/C/workshop/yorba/YORBA.sublime-project",
+		"/C/projays/linda/package.json",
+		"/C/projays/linda/src/index.jsx",
+		"/C/projays/linda/webpack.config.js",
+		"/C/projays/reduxy/src/text.jsx",
+		"/C/projays/reduxy/src/components/App.jsx",
+		"/C/projays/reduxy/src/data/todo.jsx",
+		"/C/projays/reduxy/src/data/data.jsx",
+		"/C/projays/reduxy/src/data/dataMapper.jsx",
+		"/C/projays/reduxy/src/components/main/search/Selected.jsx",
+		"/C/projays/reduxy/src/components/main/search/Skeleton.jsx",
+		"/C/projays/reduxy/src/redux/reducer.js",
+		"/C/projays/reduxy/src/data/database.jsx",
+		"/C/projays/reduxy/src/data/addys.json",
+		"/C/projays/reduxy/src/components/main/search/AutoComplete.jsx",
+		"/C/projays/reduxy/src/components/main/search/Range.jsx",
+		"/C/projays/reduxy/src/components/main/search/Slider.jsx",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/Skeleton.scss",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/Selected.scss",
+		"/C/projays/reduxy/src/redux/action_creators.jsx",
+		"/C/projays/reduxy/src/components/Grid.jsx",
+		"/C/projays/reduxy/src/components/Main.jsx",
+		"/C/projays/reduxy/src/components/main/Search.jsx",
+		"/C/projays/reduxy/src/redux/store.js",
+		"/C/projays/reduxy/src/reducer.jsx",
+		"/C/projays/reduxy/src/redux/remote_action_middleware.js",
+		"/C/projays/reduxy/src/components/main/search/Tag.jsx",
+		"/C/projays/reduxy/src/styles/_constant.scss",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/Tag.scss",
+		"/C/projays/reduxy/src/styles/_custom-styles.scss",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/AutoComplete.scss",
+		"/C/projays/reduxy/src/data/settings.jsx",
+		"/C/projays/reduxy/src/components/main/Results.jsx",
+		"/C/projays/reduxy/src/styles/component-styles/Main.scss",
+		"/C/projays/reduxy/src/components/main/search/funcs.js",
+		"/C/projays/reduxy/src/data/dataReducer.jsx",
+		"/C/projays/reduxy/src/index.jsx",
+		"/C/projays/reduxy/src/action_creators.jsx",
+		"/C/projays/reduxy/src/styles/component-styles/main/Search.scss",
+		"/C/projays/reduxy/package.json",
+		"/C/projays/reduxy/src/settings.jsx",
+		"/C/projays/reduxy/src/data.js",
+		"/C/projays/reduxy/node_modules/rc-slider/lib/Marks.js",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/Slider.scss",
+		"/C/projays/reduxy/src/components/main/search/slider-range-funcs.js",
+		"/C/projays/reducer/redux-tutorial/components/todos.jsx",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/Range.scss",
+		"/C/projays/reduxy/node_modules/rc-slider/assets/index.css",
+		"/C/projays/reduxy/src/components/main/search/RangeFuncs.js",
+		"/C/projays/reduxy/src/components/main/search/AutoCompleteOld.jsx",
+		"/C/projays/reduxy/src/components/main/Headline.jsx",
+		"/C/projays/reduxy/src/components/TopNav.jsx",
+		"/C/projays/reduxy/src/components/Header.jsx",
+		"/C/projays/reduxy/src/components/Results.jsx",
+		"/C/projays/reduxy/webpack.config.js",
+		"/C/projays/reduxy/reduxy.sublime-project",
+		"/C/projays/reduxy/src/components/Winner.jsx",
+		"/C/projays/reduxy/src/components/Voting.jsx",
+		"/C/projays/reduxy/src/components/Vote.jsx",
+		"/C/projays/reduxy/src/remote_action_middleware.js",
+		"/C/projays/reduxy/test/components/reducer_spec.jsx",
+		"/C/projays/reduxy/test/components/Voting_spec.jsx",
+		"/C/projays/reduxyz/src/components/App.jsx",
+		"/C/projays/reduxy/src/components/main/search/PriceRange.jsx",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/PriceRange.scss",
+		"/C/projays/reduxy/src/styles/component-styles/main/search/AutoComplete2.scss",
+		"/C/projays/reduxy/node_modules/react-select/dist/react-select.css",
+		"/C/projays/reduxy/node_modules/react-select/scss/default.scss",
+		"/C/projays/reduxy/node_modules/react-select/scss/control.scss",
+		"/C/projays/reduxy/node_modules/react-select/scss/components.scss",
+		"/C/projays/reduxy/src/styles/component-styles/react-select.css",
+		"/C/projays/reduxy/dist/index.html",
+		"/C/projays/reduxy/src/styles/component-styles/TopNav.scss",
+		"/C/projays/reduxy/src/components/main/utils.js",
+		"/C/projays/reduxy/node_modules/react-autocomplete/lib/Autocomplete.js",
+		"/C/projays/reduxy/node_modules/react-autocomplete/build/lib/index.js",
+		"/C/projays/reduxy/node_modules/react-autocomplete/build/lib/Autocomplete.js",
+		"/C/projays/reduxy/src/components/main/search/skeleton.jsx",
+		"/C/projays/reduxy/src/components/main/search/autocomplete.jsx",
+		"/C/projays/reduxy/node_modules/react-predict/src/react-predict.jsx",
+		"/C/projays/reduxy/node_modules/react-predict/dist/react-predict.js",
+		"/C/projays/reduxy/node_modules/react-predict/package.json",
+		"/C/projays/reduxy/src/styles/_breakpoints.scss",
+		"/C/projays/reduxy/src/styles/component-styles/main/Headline.scss",
+		"/C/projays/reduxy/src/styles/styles.scss",
+		"/C/projays/reduxy/src/components/main/SearchArea",
+		"/C/projays/reduxy/src/styles/component-styles/Header.scss",
+		"/C/projays/reduxy/src/styles/component-styles/Grid.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-xl.scss",
+		"/C/projays/reduxy/src/styles/_hiddencss.scss",
+		"/C/projays/reduxy/src/components/Footer.jsx",
+		"/C/projays/reduxy/src/components/Temp.jsx",
+		"/C/projays/reduxy/src/components/Image.jsx",
+		"/C/projays/reduxy/src/styles/Grid.scss",
+		"/C/projays/reduxy/src/components/Header.scss",
+		"/C/projays/reduxy/src/components/Grid.scss",
+		"/C/projays/reduxy/src/components/Image.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-default.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-lg.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-md.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-sm.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids-responsive.scss",
+		"/C/projays/reduxy/src/styles/purecss/_base.scss",
+		"/C/projays/reduxy/src/styles/_colors.scss",
+		"/C/projays/reduxy/dist/img/img-d41fa7.png",
+		"/C/projays/reduxy/.gitignore",
+		"/C/projays/reduxy/.gitattributes",
+		"/C/projays/reduxy/src/styles/_purecss.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grid-sm.scss",
+		"/C/projays/reduxy/src/styles/purecss/_grids.scss",
+		"/C/projays/reduxy/src/styles/pure.css",
+		"/C/projays/reduxy/src/styles/pure-responsive.css",
+		"/C/projays/reduxy/node_modules/purecss/package.json",
+		"/C/projays/reduxy/node_modules/purecss-sass/package.json",
+		"/C/projays/reduxy/node_modules/pure-css/package.json",
+		"/C/projays/reduxy/node_modules/react-puregrids/lib/grid.js",
+		"/C/projays/reduxy/node_modules/react-puregrids/lib/index.js",
+		"/C/projays/reduxy/node_modules/react-puregrids/lib/unit.js",
+		"/C/projays/reduxy/node_modules/react-puregrids/package.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\workshop\\yorba\\src\\components",
+			"C:\\projays\\reduxy\\src",
+			"C:\\projays\\reduxy\\src\\styles\\component-styles",
+			"C:\\projays\\reduxy\\src",
+			"C:\\projays\\reduxy\\node_modules\\lodash",
+			"C:\\projays\\reduxy\\src",
+			"C:\\projays\\reduxy\\node_modules\\react-autocomplete",
+			"C:\\projays\\reduxy\\src\\components",
+			"C:\\projays\\reduxy\\src",
+			"C:\\projays\\reduxy",
+			"C:\\projays\\reduxx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"componentWillMount",
+			"getInitialState",
+			"park",
+			"parking",
+			"camera",
+			"MINIMIZED",
+			"minimized",
+			"EMPTY",
+			"MINIMIZED",
+			"apply",
+			"frau",
+			"indexToParam",
+			"console",
+			"compileParams",
+			"tojs",
+			"isEqual",
+			"padding-skeleton-top",
+			"include",
+			"filter",
+			"mType",
+			"mtype",
+			"setCurrentModels",
+			"last",
+			"archive",
+			"paramsArray",
+			"filterkey",
+			"filterKey",
+			"current",
+			"applyone",
+			"yon",
+			"applyone",
+			"apply(",
+			"apply",
+			"applyone",
+			"filter(",
+			"\"main\"",
+			"setCurrentModels",
+			"main",
+			"-1",
+			"loadMap",
+			"recurseModels",
+			"filterk",
+			"default",
+			"recurseModels",
+			"paramToIndex",
+			"paramsOrder",
+			"filterk",
+			"paramsOrder",
+			"null",
+			"40",
+			"pair",
+			"isEqual",
+			"getIn",
+			".set",
+			"params",
+			"let ",
+			"_I ",
+			"//",
+			"winner",
+			"after",
+			"placeholder",
+			"getStates",
+			"fakeRequest",
+			"ArrowDown",
+			"keyDownHandlers",
+			"handleKeyDown",
+			"ArrowDown",
+			"enter",
+			"getItemValue",
+			"super",
+			"export",
+			"key",
+			"class",
+			"border-box",
+			"min-width",
+			"max-w",
+			"max-",
+			"none",
+			"g-r",
+			"display",
+			"pure-menu",
+			"warn",
+			"tally",
+			"setpro",
+			"setprops",
+			"z",
+			"Hello wor",
+			"login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"var ",
+			" ",
+			"null, null, //",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Header.jsx",
+					"settings":
+					{
+						"buffer_size": 694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}
