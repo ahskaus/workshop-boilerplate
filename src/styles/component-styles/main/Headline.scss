@@ -1,0 +1,34 @@
+
+
+
+
+.headline-top{
+
+
+	@media #{$media-sm} {
+		margin-top: 1em;
+	}
+}
+
+.headline{
+	height: 3em;
+	display:table;
+	text-align: center;
+	@media #{$media-sm} {
+		text-align: left;
+	}
+}
+
+
+.centered-headline{
+	background-color: $headline-back-color;
+	padding: 10px 60px 10px 10px;
+	color: $headline-color;
+	display:table-cell;
+	vertical-align:middle;
+	font-size: 1.4em;
+	font-weight: 300;
+	@media #{$media-sm} {
+		display: inline-block;
+	}
+}

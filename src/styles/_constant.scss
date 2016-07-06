@@ -1,0 +1,49 @@
+
+$brand-color: #B3DF22;
+$base-color: #333333;
+$base-grey: #EEEEEE;
+$max-width-main: 1024px;
+
+$main-background: lighten($base-grey, 4%);
+
+
+$headline-back-color: red;
+$headline-color: white;
+
+$autocomplete-bottom-border: lighten(magenta, 30%);
+
+
+$search-background: white;
+$search-title-background: lightblue;
+
+
+$skeleton-margin: 5px;
+$skeleton-background: white;
+
+$range-ball-color: white;
+$range-square-color: #2E8ECE;
+
+$disabled-skeleton-header-text: #AAAAAA;
+$disabled-skeleton-header-background: #DDDDDD;
+
+$selected-skeleton-header-text: #FFFFFF;
+$selected-skeleton-header-background: rebeccapurple;
+
+$current-skeleton-header-text: #FFFFFF;
+$current-skeleton-header-background: darkblue;
+
+
+@mixin topnav-shadow {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+@mixin light-shadow {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.09);
+}
+
+
+$font: 'Work Sans', 'sans serif', 'sans-serif';
+$font-weight-title: 400;
+$font-size: 1em;
+
+

@@ -1,0 +1,34 @@
+@import 'constant';
+@import 'hiddencss';
+
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+	font-family: $font;
+	font-weight: $font-weight-title;
+}
+
+.center-align-h {
+	margin: auto;
+	text-align: center;
+}
+
+.back-color {
+	background-color: $brand-color;
+}
+
+
+@import 'component-styles/Grid';
+@import 'component-styles/Header';
+@import 'component-styles/Image';
+@import 'component-styles/TopNav';
+@import 'component-styles/Main';
+@import 'component-styles/react-select';
+	@import 'component-styles/main/Headline';
+	@import 'component-styles/main/Search';
+		@import 'component-styles/main/search/Skeleton';
+		@import 'component-styles/main/search/AutoComplete';
+		@import 'component-styles/main/search/Tag';
+		@import 'component-styles/main/search/Range'; 	
+		@import 'component-styles/main/search/Slider';
+		@import 'component-styles/main/search/Selected';
+		

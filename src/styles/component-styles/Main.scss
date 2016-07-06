@@ -1,0 +1,11 @@
+
+.main-column-parent {
+	max-width: $max-width-main;
+}
+
+
+.main-column {
+	background-color: $main-background;
+	margin-top: 10px;
+	@include light-shadow;
+}

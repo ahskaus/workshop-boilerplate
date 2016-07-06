@@ -1,0 +1,17 @@
+.header {
+	background-color: $brand-color;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	// box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.logo-image-style {
+  max-height: 70px;
+}
+
+
+.header-tagline {
+	margin-top: 15px;
+	font-size: 0.9em;
+	color: $base-color;
+}

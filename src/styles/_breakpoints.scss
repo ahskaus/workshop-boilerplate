@@ -1,0 +1,36 @@
+$break-sm : 35.5em;
+$break-md : 48.0em;
+$break-lg : 64.0em;
+$break-xl : 80.0em;
+
+$break-sm-max : 35.495em;
+$break-md-max : 47.995em;
+$break-lg-max : 63.995em;
+$break-xl-max : 79.995em;
+
+
+// @function sizeUp($val){
+// 	$return $break-#{$val};
+// }
+
+
+$sizes : sm, md, lg, xl;
+
+// @each $size in $sizes
+// 	$media-#{$size} : "screen and (min-width: "+ sizeUp($size) +")";
+
+
+$media-sm: "screen and (min-width: "+$break-sm+")";
+$media-md: "screen and (min-width: "+$break-md+")";
+$media-lg: "screen and (min-width: "+$break-lg+")";
+$media-xl: "screen and (min-width: "+$break-xl+")";
+
+$media-pure-max: "screen and (max-width: "+$break-sm-max+")";
+$media-sm-max: $media-sm+" and (max-width: "+$break-md-max+")";
+$media-md-max: $media-md+" and (max-width: "+$break-lg-max+")";
+$media-lg-max: $media-xl+" and (max-width: "+$break-xl-max+")";
+$media-xl-max: "screen and (min-width: "+$break-xl+")";
+
+$size-screens : (sm:$media-sm, md:$media-md, lg:$media-lg, xl:$media-xl);
+
+$size-screens-max : (sm:$media-sm-max, md:$media-md-max, lg:$media-lg-max, xl:$media-xl-max);

@@ -1,0 +1,122 @@
+// $show-mees : show, hide;
+
+// @function same($type){
+// 	@if ($type == show){@return inherit;}
+// 	@return none;
+// }
+
+// @function opposite($type){
+// 	@if ($type == hide){@return inherit;}
+// 	@return none;
+// }
+
+// @each $show-me in $show-mees {
+// 	@each $size in $sizes {
+// 		.pure-#{$size}-#{$show-me} {
+// 			display: opposite($show-me) !important;
+// 		}
+// 	}
+
+// 	.pure-#{$show-me} {
+// 		display: same($show-me) !important;
+// 	}
+
+// 	@each $size, $screen in $size-screens {
+// 		@media #{$screen} {
+// 			.pure-#{$show-me} {
+// 				display: opposite($show-me) !important;
+// 			}
+// 			@each $size2 in $sizes {
+// 				@if $size == $size2 {
+// 					.pure-#{$size2}-#{$show-me} {
+// 						display: same($show-me) !important;
+// 					}
+// 				} @else {
+// 					.pure-#{$size2}-#{$show-me} {
+// 						display: opposite($show-me) !important;
+// 					}
+// 				}
+
+// 			}
+// 		}
+// 	}
+// }
+
+
+// $all-sizes: join(pure, $sizes);
+
+// .pure-hide {
+// 	display: none !important;
+// }
+
+
+// @each $size, $screen in $size-screens {
+// 	@media #{$screen} {
+// 		$i: index($all-sizes, $size);
+// 		$temp: '.pure';
+// 		@for $j from 2 through $i {
+// 			$temp: $temp + '-' + nth($all-sizes, $j);
+// 		}
+// 		.#{$temp}-hide {
+// 			display: none !important;
+// 		}
+// 		$temp: $size;
+// 		.#{$temp}-hide {
+// 			display: none !important;
+// 		}
+// 		$i: $i+1;		
+// 		@if ($i <= length($all-sizes)){
+// 			@for $j from $i through length($all-sizes) {
+// 				$temp: $temp + '-' + nth($all-sizes, $j);
+// 				.#{$temp}-hide {
+// 					display: none !important;
+// 				}
+// 			}
+// 		}
+// 	}
+// }
+
+
+
+$all-sizes: join(pure, $sizes);
+
+@media #{$media-pure-max} {
+	.pure-hide {
+		display: none !important;
+	}
+}
+
+@each $size, $screen in $size-screens-max {
+	@media #{$screen} {
+		// $i: index($all-sizes, $size);
+		// $temp: '.pure';
+		// @for $j from 2 through $i {
+		// 	$temp: $temp + '-' + nth($all-sizes, $j);
+		// }
+		// .#{$temp}-hide {
+		// 	display: none !important;
+		// }
+		$temp: $size;
+		.#{$temp}-hide {
+			display: none !important;
+		}
+		// $i: $i+1;		
+		// @if ($i <= length($all-sizes)){
+		// 	@for $j from $i through length($all-sizes) {
+		// 		$temp: $temp + '-' + nth($all-sizes, $j);
+		// 		.#{$temp}-hide {
+		// 			display: none !important;
+		// 		}
+		// 	}
+		// }
+	}
+}
+
+@each $size, $screen in $size-screens {
+	@media #{$screen} {
+		$temp: $size;
+		.#{$temp}-hide-above {
+			display: none !important;
+		}
+	}
+}
